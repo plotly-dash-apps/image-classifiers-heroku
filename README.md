@@ -18,4 +18,5 @@ simple iris prediction:
 
 Here's a great tutorial with step-by-step:
 * https://cloudxlab.com/assessment/playlist-intro/588/how-to-host-an-image-classification-app-on-heroku
+* https://github.com/vagdevik/Heroku-Image-Classification
 * https://my-image-classification-app.herokuapp.com/
